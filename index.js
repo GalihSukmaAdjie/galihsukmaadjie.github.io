@@ -326,7 +326,7 @@ const showSlideFour = () => {
         opacity: [1],
     })
     .add({
-        delay: 1000,
+        delay: 1500,
         translateY: -50,
         duration: 100,
         opacity: [0],
@@ -339,7 +339,7 @@ const showSlideFour = () => {
         opacity: [0],
     })
     .add({
-        delay: 9750,
+        delay: 12750,
         duration: 100,
         opacity: [1],
     })
@@ -356,7 +356,7 @@ const showSlideFour = () => {
         opacity: [0],
     })
     .add({
-        delay: 9750,
+        delay: 12750,
         duration: 100,
         opacity: [1],
     })
@@ -374,7 +374,7 @@ const showSlideFour = () => {
     })
     .add({
         translateY: -300,
-        delay: 12000,
+        delay: 15000,
         duration: 100,
         opacity: [1],
     })
@@ -386,7 +386,7 @@ const showSlideFour = () => {
 
     slide_four_tl
     .add({
-        delay: 14000,
+        delay: 17000,
         duration: 200,
         opacity: [0]
     })

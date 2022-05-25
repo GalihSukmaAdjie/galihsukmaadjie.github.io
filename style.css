@@ -155,6 +155,9 @@
 .slide_four {
     display: none;
 }
+.slide_four_four {
+    font-size: 36px;
+}
 .slide_four_one, .slide_four_two {
     font-size: 96px;
 }
@@ -317,5 +320,8 @@
     }
     .footer .right {
         text-align: right;
+    }
+    .slide_four_four {
+        font-size: 18px;
     }
 }
